@@ -1,0 +1,74 @@
+medical_specialty,specialty_group
+AllergyandImmunology,"Eye, ENT, Skin & Immunology"
+Anesthesiology,Surgical Specialties
+Anesthesiology-Pediatric,Pediatrics
+Cardiology,Cardiology
+Cardiology-Pediatric,Cardiology
+DCPTEAM,Unknown
+Dentistry,Unknown
+Dermatology,"Eye, ENT, Skin & Immunology"
+Emergency/Trauma,Emergency Medicine
+Endocrinology,Endocrinology & Diabetes
+Endocrinology-Metabolism,Endocrinology & Diabetes
+Family/GeneralPractice,Family Medicine
+Gastroenterology,Gastroenterology
+Gynecology,Obstetrics & Gynecology
+Hematology,Hematology & Oncology
+Hematology/Oncology,Hematology & Oncology
+Hospitalist,Internal Medicine
+InfectiousDiseases,Internal Medicine
+InternalMedicine,Internal Medicine
+Nephrology,Renal & Urology
+Neurology,Neurology
+Neurophysiology,Neurology
+Obsterics&Gynecology-GynecologicOnco,Obstetrics & Gynecology
+Obstetrics,Obstetrics & Gynecology
+ObstetricsandGynecology,Obstetrics & Gynecology
+Oncology,Hematology & Oncology
+Ophthalmology,"Eye, ENT, Skin & Immunology"
+Orthopedics,Orthopedics & Sports Medicine
+Orthopedics-Reconstructive,Orthopedics & Sports Medicine
+Osteopath,Family Medicine
+Otolaryngology,"Eye, ENT, Skin & Immunology"
+OutreachServices,Unknown
+Pathology,Internal Medicine
+Pediatrics,Pediatrics
+Pediatrics-AllergyandImmunology,Pediatrics
+Pediatrics-CriticalCare,Pediatrics
+Pediatrics-EmergencyMedicine,Pediatrics
+Pediatrics-Endocrinology,Endocrinology & Diabetes
+Pediatrics-Hematology-Oncology,Hematology & Oncology
+Pediatrics-InfectiousDiseases,Internal Medicine
+Pediatrics-Neurology,Neurology
+Pediatrics-Pulmonology,Pulmonology
+Perinatology,Obstetrics & Gynecology
+PhysicalMedicineandRehabilitation,Rehabilitation
+PhysicianNotFound,Unknown
+Podiatry,Orthopedics & Sports Medicine
+Proctology,Gastroenterology
+Psychiatry,Mental & Behavioral Health
+Psychiatry-Addictive,Mental & Behavioral Health
+Psychiatry-Child/Adolescent,Mental & Behavioral Health
+Psychology,Mental & Behavioral Health
+Pulmonology,Pulmonology
+Radiologist,Radiology
+Radiology,Radiology
+Resident,Unknown
+Rheumatology,Internal Medicine
+Speech,Rehabilitation
+SportsMedicine,Orthopedics & Sports Medicine
+Surgeon,Surgical Specialties
+Surgery-Cardiovascular,Surgical Specialties
+Surgery-Cardiovascular/Thoracic,Surgical Specialties
+Surgery-Colon&Rectal,Surgical Specialties
+Surgery-General,Surgical Specialties
+Surgery-Maxillofacial,Surgical Specialties
+Surgery-Neuro,Surgical Specialties
+Surgery-Pediatric,Surgical Specialties
+Surgery-Plastic,Surgical Specialties
+Surgery-PlasticwithinHeadandNeck,Surgical Specialties
+Surgery-Thoracic,Surgical Specialties
+Surgery-Vascular,Surgical Specialties
+SurgicalSpecialty,Surgical Specialties
+Unknown,Unknown
+Urology,Renal & Urology
