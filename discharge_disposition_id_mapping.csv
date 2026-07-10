@@ -1,0 +1,31 @@
+discharge_disposition_id,description,grouped_category
+1,Discharged to home,Discharged to Home
+2,Discharged/transferred to another short term hospital,Discharged/Transferred to Facility
+3,Discharged/transferred to SNF,Discharged/Transferred to Facility
+4,Discharged/transferred to ICF,Discharged/Transferred to Facility
+5,Discharged/transferred to another type of inpatient care institution,Discharged/Transferred to Facility
+6,Discharged/transferred to home with home health service,Discharged Home Care
+7,Left AMA,Other
+8,Discharged/transferred to home under care of Home IV provider,Discharged Home Care
+9,Admitted as an inpatient to this hospital,Continuing Care
+10,Neonate discharged to another hospital for neonatal aftercare,Other
+11,Expired,Expired
+12,Still patient or expected to return for outpatient services,Continuing Care
+13,Hospice / home,Hospice
+14,Hospice / medical facility,Hospice
+15,Discharged/transferred within this institution to Medicare approved swing bed,Discharged/Transferred to Facility
+16,Discharged/transferred/referred another institution for outpatient services,Continuing Care
+17,Discharged/transferred/referred to this institution for outpatient services,Continuing Care
+18,NULL,Unknown
+19,"Expired at home. Medicaid only, hospice.",Expired
+20,"Expired in a medical facility. Medicaid only, hospice.",Expired
+21,"Expired, place unknown. Medicaid only, hospice.",Expired
+22,Discharged/transferred to another rehab fac including rehab units of a hospital .,Discharged/Transferred to Facility
+23,Discharged/transferred to a long term care hospital.,Discharged/Transferred to Facility
+24,Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.,Discharged/Transferred to Facility
+25,Not Mapped,Unknown
+26,Unknown/Invalid,Unknown
+27,Discharged/transferred to a federal health care facility.,Discharged/Transferred to Facility
+28,Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,Other
+29,Discharged/transferred to a Critical Access Hospital (CAH).,Discharged/Transferred to Facility
+30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere,Discharged/Transferred to Facility
